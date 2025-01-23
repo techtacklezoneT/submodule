@@ -16,6 +16,8 @@
             }
             throw new Exception("No two sum solution");
         }
+
+        public static int AddTwoNumber(int a, int b) => a + b;
     }
 
 }
